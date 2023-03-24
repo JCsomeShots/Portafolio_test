@@ -349,6 +349,9 @@
   .projects__bio-image {
     height: 50vh;
   }
+  .projects__bio-image .text-secondary {
+    padding-right: 700px;
+  }
   .contact {
     padding-left: 210px;
   }
